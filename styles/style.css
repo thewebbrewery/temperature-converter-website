@@ -31,8 +31,6 @@ body {
     align-items: center;
     justify-content: center;
     gap: 2.2em;
-    padding-left: 1.4em;
-    padding-right: 1.4em;
 }
 
 
@@ -41,7 +39,7 @@ body {
     border: 2px solid #f72585;
     background-color: #ffafd314;
     border-radius: 10px;
-    padding: 20px 10px;
+    padding: 32px;
     margin: 20px auto 50px;
     box-shadow: 0px 0px 10px #f72585;
     height: auto;
