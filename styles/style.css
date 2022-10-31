@@ -204,9 +204,3 @@ input::-webkit-inner-spin-button {
     box-shadow: 0px 0px 5px #f72585;
 
 }
-
-@media screen and (max-width:768px) {
-    body {
-        flex-direction: row;
-    }
-}
