@@ -67,4 +67,3 @@ ScrollReveal().reveal('.container', { delay: 40, origin: 'bottom' });
 ScrollReveal().reveal('.p-1', { delay: 40, origin: 'bottom' });
 ScrollReveal().reveal('.p-2', { delay: 40, origin: 'right' });
 ScrollReveal().reveal('.p-3', { delay: 40, origin: 'left' });
-ScrollReveal().reveal('.copyright', { delay: 40, origin: 'right' });
