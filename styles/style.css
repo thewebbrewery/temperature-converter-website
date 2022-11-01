@@ -208,7 +208,7 @@ input::-webkit-inner-spin-button {
 @media screen and (max-width:768px) {
 
     .boxcontainer {
-        flex-wrap: wrap;
+        flex-wrap: wrap-reverse;
         gap: 0;
     }
 }
